@@ -1,6 +1,6 @@
-4de10ec3901f0896648a76b92d039a80 *DESCRIPTION
+8ddbcba63d96686e176b4a7b8ee5b5be *DESCRIPTION
 f8b88296d4d7a34ca90e59a0360c8ab0 *NAMESPACE
-75dd94414ecdcd4474ff486eb2490eaf *NEWS.md
+0405b7011e314e34855583fe2a120ca6 *NEWS.md
 1f85aeac74f383604fa12a9fbafaf50f *R/RcppExports.R
 6cd3cffb5b2a9f90a10635f3e14846ac *R/datasets.R
 57ce10ffdc6be3e6e99963181125e0db *R/nametagger.R
@@ -17,7 +17,7 @@ d962e2a667501a414f265120509b8b34 *man/nametagger_load_model.Rd
 e55e0348054b22344cc60862e4e08d31 *man/nametagger_options.Rd
 0f22f9d4c4b1114a5ecb584345601c7c *man/predict.nametagger.Rd
 147e609b89fecc4726cbc3ded93fe104 *man/write_nametagger.Rd
-59bfcf761542233c43e2ed882270f687 *src/Makevars
+d8dfb6623c19caf5057e0841f1749bb8 *src/Makevars
 3c15b128de6dc5963403b428ff139b9a *src/RcppExports.cpp
 08b07d373cf3b7216043104b2a039951 *src/nametag/src/bilou/bilou_entity.h
 f042ddb9e67f7ef5f425d810db307f7e *src/nametag/src/bilou/bilou_probabilities.cpp
@@ -195,9 +195,9 @@ ebd666b2c368079444a039fbcf5e336b *src/nametag/src/unilib/uninorms.h
 2c51c03e8cf0ee8db4b07e5f3e6fa681 *src/nametag/src/unilib/unistrip.cpp
 9c64ec1d781a4672d42d4f1f4b55fadd *src/nametag/src/unilib/unistrip.h
 38028f58d7f26fb82ec702e6e1376877 *src/nametag/src/unilib/utf16.cpp
-7659bc3b81abaebcf6b25992c281535c *src/nametag/src/unilib/utf16.h
+45c701689bd301517a91a08972362226 *src/nametag/src/unilib/utf16.h
 e507988e6a0bd0ce4f7c8aee97e22e70 *src/nametag/src/unilib/utf8.cpp
-c1568d86b6ad9958e610511bb3b4c284 *src/nametag/src/unilib/utf8.h
+0841c19be75a7ae079b3533d09a7780a *src/nametag/src/unilib/utf8.h
 8800e7b3487481649a987c98b886779a *src/nametag/src/unilib/version.cpp
 1750ac1517d9b0126836a7e513140930 *src/nametag/src/unilib/version.h
 7a1292d6d5ed0920c69bb382a8b9d04d *src/nametag/src/utils/AUTHORS
@@ -208,7 +208,7 @@ ad1bffd4194ddcbeb231fcfc5ba7d957 *src/nametag/src/utils/binary_encoder.h
 3c1d41a6a6fd0ce3eb78d95dfc51b79d *src/nametag/src/utils/common.h
 e08f0145cee9b357ae599c9194eec98a *src/nametag/src/utils/compressor.h
 575b3300608bee5582cbf74e0ecc5f45 *src/nametag/src/utils/compressor_load.cpp
-9af11825857d998868b082b8400ff641 *src/nametag/src/utils/compressor_save.cpp
+a5f99e307984ad182f92e4052bbbc7a5 *src/nametag/src/utils/compressor_save.cpp
 91266012f0634e59bec083d6d63faefe *src/nametag/src/utils/getpara.h
 790d0c372981f5200ce3254470230f37 *src/nametag/src/utils/getwhole.h
 eeeb7c1cc75eb6d28fb493f7f78bc392 *src/nametag/src/utils/iostreams.h

@@ -1,9 +1,9 @@
-8ddbcba63d96686e176b4a7b8ee5b5be *DESCRIPTION
+652ae0ee60736be25e060cc08836bb1e *DESCRIPTION
 f8b88296d4d7a34ca90e59a0360c8ab0 *NAMESPACE
-0405b7011e314e34855583fe2a120ca6 *NEWS.md
+569a788567b649e300a784adab4ece41 *NEWS.md
 1f85aeac74f383604fa12a9fbafaf50f *R/RcppExports.R
 6cd3cffb5b2a9f90a10635f3e14846ac *R/datasets.R
-57ce10ffdc6be3e6e99963181125e0db *R/nametagger.R
+1726441a4e51be4ff4c847f096c9d686 *R/nametagger.R
 fd9b4b52f1a5c5aaf52fe8ce3bc1b543 *R/pkg.R
 5f71700553319ac5077b8b4ea4337487 *README.md
 fb9ad8cdf2278b484976317f7006c19a *data/europeananews.RData
@@ -11,8 +11,8 @@ fb9ad8cdf2278b484976317f7006c19a *data/europeananews.RData
 cd0d1a92e258c08d77d6eb543b37a76d *inst/models/features_default.txt
 fafb31d08583aa0796a4119e275beb96 *man/europeana_read.Rd
 00ce8ca4876b60c3a9d3b6fa93b19ddc *man/europeananews.Rd
-6f5e67af25c1fce625c32fa247d21d10 *man/nametagger.Rd
-588814ee109c1102c0e6ca9072bd7127 *man/nametagger_download_model.Rd
+30175a265fc308ca35ed0a2b4dcf1e68 *man/nametagger.Rd
+a9fc10e3e354c60d25794af866268f92 *man/nametagger_download_model.Rd
 d962e2a667501a414f265120509b8b34 *man/nametagger_load_model.Rd
 e55e0348054b22344cc60862e4e08d31 *man/nametagger_options.Rd
 0f22f9d4c4b1114a5ecb584345601c7c *man/predict.nametagger.Rd
@@ -217,7 +217,7 @@ ca9daf5e25f8e0ed6083ed02498a755e *src/nametag/src/utils/new_unique_ptr.h
 7d3f6fd8ad67335678784f6e37a54108 *src/nametag/src/utils/options.cpp
 d48de880dcae7adfe8e3d136419cbd42 *src/nametag/src/utils/options.h
 af4d03ddf3a4a13827ee55f466620ea3 *src/nametag/src/utils/parse_double.h
-427b4a5fe1618ff74c995e2baac67327 *src/nametag/src/utils/parse_int.h
+69f24d583ce030f5746facabc4240667 *src/nametag/src/utils/parse_int.h
 25ae74a61d6fdbf6b8fedcf18207d692 *src/nametag/src/utils/pointer_decoder.h
 7336f622c4f5e3863d750509445bf41a *src/nametag/src/utils/process_args.h
 bcbe3930f83299801288bdd06d45b0db *src/nametag/src/utils/run_process.h

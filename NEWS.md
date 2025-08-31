@@ -1,3 +1,13 @@
+## CHANGES IN nametagger VERSION 0.1.5
+
+- avoid warning: overlapping comparisons always evaluate to true in parse_int 
+   - replacing: !(str.str[0] >= '0' || str.str[0] <= '9') with (str.str[0] < '0' || str.str[0] > '9')
+- changed url in nametagger_donwload_model to https://ufal.mff.cuni.cz/nametag/1/users-manual
+
+## CHANGES IN nametagger VERSION 0.1.4
+
+- nametagger_download_model now allows to download a model for Czech: czech-cnec-140304
+
 ## CHANGES IN nametagger VERSION 0.1.3
 
 - Add explicit initialization to silence false positive valgrind report in compressor_save.cpp

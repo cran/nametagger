@@ -1,8 +1,8 @@
-652ae0ee60736be25e060cc08836bb1e *DESCRIPTION
+31780358fca729ad4c6097b5d38cf3ac *DESCRIPTION
 f8b88296d4d7a34ca90e59a0360c8ab0 *NAMESPACE
-569a788567b649e300a784adab4ece41 *NEWS.md
+d8db0b5286b05584ba14e0efdff03176 *NEWS.md
 1f85aeac74f383604fa12a9fbafaf50f *R/RcppExports.R
-6cd3cffb5b2a9f90a10635f3e14846ac *R/datasets.R
+a50c05e9e8cc1fc94d92ca2e1dd7b690 *R/datasets.R
 1726441a4e51be4ff4c847f096c9d686 *R/nametagger.R
 fd9b4b52f1a5c5aaf52fe8ce3bc1b543 *R/pkg.R
 5f71700553319ac5077b8b4ea4337487 *README.md
@@ -10,7 +10,7 @@ fb9ad8cdf2278b484976317f7006c19a *data/europeananews.RData
 0a2885680c44dd4bb16efcefa8e383da *inst/models/exampletagger.ner
 cd0d1a92e258c08d77d6eb543b37a76d *inst/models/features_default.txt
 fafb31d08583aa0796a4119e275beb96 *man/europeana_read.Rd
-00ce8ca4876b60c3a9d3b6fa93b19ddc *man/europeananews.Rd
+8e5166b9066a902cc5befb94c90e771e *man/europeananews.Rd
 30175a265fc308ca35ed0a2b4dcf1e68 *man/nametagger.Rd
 a9fc10e3e354c60d25794af866268f92 *man/nametagger_download_model.Rd
 d962e2a667501a414f265120509b8b34 *man/nametagger_load_model.Rd
@@ -92,7 +92,7 @@ d65840137bc18ea8e97d5e298ff21508 *src/nametag/src/morphodita/morpho/generic_morp
 2182c8080ca8659e826e4c96d01d123c *src/nametag/src/morphodita/morpho/morpho_statistical_guesser_encoder.h
 e6103be159660bf62c0b3b78222d473f *src/nametag/src/morphodita/morpho/morpho_statistical_guesser_trainer.cpp
 a9a3f39071bdc347d097d06262290b20 *src/nametag/src/morphodita/morpho/morpho_statistical_guesser_trainer.h
-e33d4b3eb20ddc0407654c72d52e1ffa *src/nametag/src/morphodita/morpho/persistent_unordered_map.h
+13e5b70e939371abf99084c7514d948d *src/nametag/src/morphodita/morpho/persistent_unordered_map.h
 12cc84ccf829b0d05df260c4068e2b65 *src/nametag/src/morphodita/morpho/persistent_unordered_map_encoder.h
 b3876c89dcae79ea395e0ca37ef3f195 *src/nametag/src/morphodita/morpho/raw_morpho_dictionary_reader.cpp
 4c5a865b412c36da4e7ad0e880a2d121 *src/nametag/src/morphodita/morpho/raw_morpho_dictionary_reader.h

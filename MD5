@@ -1,6 +1,6 @@
-31780358fca729ad4c6097b5d38cf3ac *DESCRIPTION
+92a1d82031227fe7b91797dea78c40e3 *DESCRIPTION
 f8b88296d4d7a34ca90e59a0360c8ab0 *NAMESPACE
-d8db0b5286b05584ba14e0efdff03176 *NEWS.md
+79623d9244907819691cd2f2363b933f *NEWS.md
 1f85aeac74f383604fa12a9fbafaf50f *R/RcppExports.R
 a50c05e9e8cc1fc94d92ca2e1dd7b690 *R/datasets.R
 1726441a4e51be4ff4c847f096c9d686 *R/nametagger.R
@@ -30,7 +30,7 @@ c40192f324e049bc17f411deee215fd7 *src/nametag/src/bilou/ner_word.h
 38943d54a07d6a4d202729dc7a6ff5c7 *src/nametag/src/classifier/classifier_feature.h
 a1ee352e05cb12b0ec05e942bed36f4c *src/nametag/src/classifier/classifier_instance.h
 3cfae74f15fd2c5a68610ce4940f90f6 *src/nametag/src/classifier/classifier_outcome.h
-d82c3ddeacb44eeac7385aacc7dcb6aa *src/nametag/src/classifier/network_classifier.cpp
+85113320d21905d9785dc42852fb5fe7 *src/nametag/src/classifier/network_classifier.cpp
 815ff95f866670abf154405d5058d923 *src/nametag/src/classifier/network_classifier.h
 29f7bea35829b07dff20d54bfcfe6a1e *src/nametag/src/classifier/network_classifier_encoder.cpp
 7f05797f06b52f415862c5932795b462 *src/nametag/src/classifier/network_parameters.h
@@ -92,7 +92,7 @@ d65840137bc18ea8e97d5e298ff21508 *src/nametag/src/morphodita/morpho/generic_morp
 2182c8080ca8659e826e4c96d01d123c *src/nametag/src/morphodita/morpho/morpho_statistical_guesser_encoder.h
 e6103be159660bf62c0b3b78222d473f *src/nametag/src/morphodita/morpho/morpho_statistical_guesser_trainer.cpp
 a9a3f39071bdc347d097d06262290b20 *src/nametag/src/morphodita/morpho/morpho_statistical_guesser_trainer.h
-13e5b70e939371abf99084c7514d948d *src/nametag/src/morphodita/morpho/persistent_unordered_map.h
+a55dcd2830a8cbe8c949e7d88664f9a4 *src/nametag/src/morphodita/morpho/persistent_unordered_map.h
 12cc84ccf829b0d05df260c4068e2b65 *src/nametag/src/morphodita/morpho/persistent_unordered_map_encoder.h
 b3876c89dcae79ea395e0ca37ef3f195 *src/nametag/src/morphodita/morpho/raw_morpho_dictionary_reader.cpp
 4c5a865b412c36da4e7ad0e880a2d121 *src/nametag/src/morphodita/morpho/raw_morpho_dictionary_reader.h
@@ -225,7 +225,7 @@ bcbe3930f83299801288bdd06d45b0db *src/nametag/src/utils/run_process.h
 c234218620472614c4ff6df0e41b34cb *src/nametag/src/utils/string_piece.h
 2ea7a80c75faff1673c30441eea978d1 *src/nametag/src/utils/threadsafe_resource_loader.h
 04d4ce29881930a21727ee2bae7dd553 *src/nametag/src/utils/threadsafe_stack.h
-31fd67984df5ba7d5717e5d4ceddf0d8 *src/nametag/src/utils/unaligned_access.h
+a8d23a5db4bd0344a43c44a58fbd9dfb *src/nametag/src/utils/unaligned_access.h
 8be6facc533342317e081545844a4a8e *src/nametag/src/utils/url_detector.cpp
 0b62e65b722768ada25fa5d3725aec44 *src/nametag/src/utils/url_detector.h
 c2fc12190c31a6e881ca7d02434bb38b *src/nametag/src/utils/xml_encoded.h

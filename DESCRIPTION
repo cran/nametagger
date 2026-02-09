@@ -1,7 +1,7 @@
 Package: nametagger
 Type: Package
 Title: Named Entity Recognition in Texts using 'NameTag'
-Version: 0.1.6
+Version: 0.1.7
 Authors@R: c(
     person('Jan', 'Wijffels', role = c('aut', 'cre', 'cph'), email = 'jwijffels@bnosac.be', comment = 'R wrapper'), 
     person('BNOSAC', role = 'cph', comment = 'R wrapper'), 
@@ -21,7 +21,7 @@ Imports: Rcpp (>= 0.11.5), utils
 Suggests: udpipe (>= 0.2)
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2026-01-30 10:28:46 UTC; jwijf
+Packaged: 2026-02-09 11:10:27 UTC; jwijf
 Author: Jan Wijffels [aut, cre, cph] (R wrapper),
   BNOSAC [cph] (R wrapper),
   Institute of Formal and Applied Linguistics, Faculty of Mathematics and
@@ -29,4 +29,4 @@ Author: Jan Wijffels [aut, cre, cph] (R wrapper),
   Milan Straka [ctb, cph] (src/nametag),
   Jana Straková [ctb, cph] (src/nametag)
 Repository: CRAN
-Date/Publication: 2026-01-30 11:50:02 UTC
+Date/Publication: 2026-02-09 11:50:02 UTC

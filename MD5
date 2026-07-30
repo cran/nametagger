@@ -1,9 +1,9 @@
-92a1d82031227fe7b91797dea78c40e3 *DESCRIPTION
+e51366b943519759e5a022d2637dbac3 *DESCRIPTION
 f8b88296d4d7a34ca90e59a0360c8ab0 *NAMESPACE
-79623d9244907819691cd2f2363b933f *NEWS.md
+1e4964b9297f6cd9979a08a07d4d902e *NEWS.md
 1f85aeac74f383604fa12a9fbafaf50f *R/RcppExports.R
 a50c05e9e8cc1fc94d92ca2e1dd7b690 *R/datasets.R
-1726441a4e51be4ff4c847f096c9d686 *R/nametagger.R
+42703f499dfa3989a5844d5bc096ade8 *R/nametagger.R
 fd9b4b52f1a5c5aaf52fe8ce3bc1b543 *R/pkg.R
 5f71700553319ac5077b8b4ea4337487 *README.md
 fb9ad8cdf2278b484976317f7006c19a *data/europeananews.RData
@@ -18,7 +18,7 @@ e55e0348054b22344cc60862e4e08d31 *man/nametagger_options.Rd
 0f22f9d4c4b1114a5ecb584345601c7c *man/predict.nametagger.Rd
 147e609b89fecc4726cbc3ded93fe104 *man/write_nametagger.Rd
 d8dfb6623c19caf5057e0841f1749bb8 *src/Makevars
-3c15b128de6dc5963403b428ff139b9a *src/RcppExports.cpp
+7cfc84f50e2934d4c14873443903d2f8 *src/RcppExports.cpp
 08b07d373cf3b7216043104b2a039951 *src/nametag/src/bilou/bilou_entity.h
 f042ddb9e67f7ef5f425d810db307f7e *src/nametag/src/bilou/bilou_probabilities.cpp
 a8e7210d37c828a981ad1a4cb11d0770 *src/nametag/src/bilou/bilou_probabilities.h
